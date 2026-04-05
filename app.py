@@ -77,7 +77,7 @@ border:none;
 padding:10px 20px;
 color:white;
 border-radius:6px;
-}
+}}
 
 footer {{
 text-align:center;
@@ -92,7 +92,7 @@ color:gray;
 <body>
 
 <nav>
-<h1> FF Academy</h1>
+<h1>🔥 FF Academy</h1>
 
 <div>
 <a href="/">Home</a>
@@ -209,7 +209,12 @@ def videos():
 <div class="container">
 
 <div class="card">
-<h3>Headshot 
+<h3>Headshot Training</h3>
+
+<iframe width="100%" height="200"
+src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+frameborder="0"
+allowfullscreen></iframe>
 
 </div>
 
@@ -263,3 +268,4 @@ def contact():
 
 if __name__ == "__main__":
     app.run()
+
